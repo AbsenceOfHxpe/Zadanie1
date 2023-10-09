@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Zadanie1</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="points">Obecna ilość punktów: %1$d </string>
+
+    <string name="q_1">Czy Hexagon składa się z 6 boków?</string>
+    <string name="q_2">Czy Harley Queen ma na imię Harley?</string>
+    <string name="q_3">Czy studiowanie na PB może niszczyć psychikę?</string>
+    <string name="q_4">Czy pająki posiadają 8 kończyn?</string>
+    <string name="q_5">Polska flaga składa się z 3 kolorów?</string>
+
+    <string name="correct_answer">Odpowiedź prawidłowa</string>
+    <string name="incorrect_answer">Odpowiedź nieprawidłowa</string>
+</resources>
