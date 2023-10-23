@@ -3,3 +3,17 @@ d
 4app/src/main/java/com/example/zadanie1/Question.java,0\f\0f7f7c9ee1d2458679ee4f691430d212b9a1c3ef
 h
 8app/src/main/java/com/example/zadanie1/MainActivity.java,1\7\1742eec9eebb00f76912e42f84671171be34f6cc
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+w
+G.idea/sonarlint/issuestore/0/f/0f7f7c9ee1d2458679ee4f691430d212b9a1c3ef,3\1\317ab316c7e0f02c57ac4a6f9992f6632148eb6b
+Å
+Q.idea/sonarlint/securityhotspotstore/0/f/0f7f7c9ee1d2458679ee4f691430d212b9a1c3ef,1\b\1b537c488d88b0d55b925143d56e8dd91b596736
+Å
+Q.idea/sonarlint/securityhotspotstore/1/7/1742eec9eebb00f76912e42f84671171be34f6cc,8\9\896e251d4c4310d28bd10f57a3ef28cd55ce32ac
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+j
+:app/src/main/java/com/example/zadanie1/PromptActivity.java,8\f\8f5687d8a5dcd87b40d0b18b2fe82b36d6686087
