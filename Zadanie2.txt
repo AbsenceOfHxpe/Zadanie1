@@ -1,0 +1,51 @@
+8.Pierwsze uruchomienie aplikacji powoduje uruchomienie oraz wznowienie aplikacji.  
+
+2023-10-23 18:22:43.418 32135-32135 log_tag                 com.example.zadanie1                 D  Aplikacja została uruchomiona
+2023-10-23 18:22:43.421 32135-32135 log_tag                 com.example.zadanie1                 D  Aplikacja została wzonowiona
+
+Przycisk cofnij powoduje w kolejności pauzę, zatrzymanie oraz zniszczenie aplikacji.
+
+2023-10-23 18:23:04.247 32135-32135 log_tag                 com.example.zadanie1                 D  Aplikacja została zapauzowana
+2023-10-23 18:23:04.818 32135-32135 log_tag                 com.example.zadanie1                 D  Aplikacja została zatrzymana
+2023-10-23 18:23:04.820 32135-32135 log_tag                 com.example.zadanie1                 D  Aplikacja została zniszczona
+
+
+Ponowne uruchomienie aplikacji na nowo tworzy oraz uruchamia aplikację od początku.
+
+2023-10-23 18:23:15.749 32135-32135 log_tag                 com.example.zadanie1                 D  Aplikacja została uruchomiona
+2023-10-23 18:23:15.751 32135-32135 log_tag                 com.example.zadanie1                 D  Aplikacja została wzonowiona
+
+
+Naciśnięcie przycisku home pauzuje stan aplikacji a następnie zatrzymuje aplikacje czekając na ponowne włączenie
+
+2023-10-23 18:23:24.526 32135-32135 log_tag                 com.example.zadanie1                 D  Aplikacja została zapauzowana
+2023-10-23 18:23:24.979 32135-32135 log_tag                 com.example.zadanie1                 D  Aplikacja została zatrzymana
+
+
+Powrót do aplikacji powoduje takie esame efekty jak w przypadku ponowne włączenie aplikacji
+
+
+2023-10-23 18:23:46.406 32135-32135 log_tag                 com.example.zadanie1                 D  Aplikacja została uruchomiona
+2023-10-23 18:23:46.407 32135-32135 log_tag                 com.example.zadanie1                 D  Aplikacja została wzonowiona
+
+
+
+
+10. Zgodnie z logami aplikacja zostaje wyłączona a następnie włączona ponownie w trybie obróconym. Aplikacja tym samym wraca do pierwszego zadanego pytania przez użytkownika.
+
+
+2023-10-23 18:35:06.354   783-783   log_tag                 com.example.zadanie1                 D  Aplikacja została zapauzowana
+2023-10-23 18:35:06.372   783-783   log_tag                 com.example.zadanie1                 D  Aplikacja została zatrzymana
+2023-10-23 18:35:06.377   783-783   log_tag                 com.example.zadanie1                 D  Aplikacja została zniszczona
+2023-10-23 18:35:06.446   783-783   log_tag                 com.example.zadanie1                 D  Aplikacja została uruchomiona
+2023-10-23 18:35:06.448   783-783   log_tag                 com.example.zadanie1                 D  Aplikacja została wzonowiona
+
+
+13. W logach nadal pojawia się informacja o zniaszczeniu aplikacji. Za to aplikacja pamięta index po obróceniu ekranu.
+
+
+2023-10-23 18:53:35.426  3230-3230  log_tag                 com.example.zadanie1                 D  Aplikacja została zapauzowana
+2023-10-23 18:53:35.432  3230-3230  log_tag                 com.example.zadanie1                 D  Aplikacja została zatrzymana
+2023-10-23 18:53:35.435  3230-3230  log_tag                 com.example.zadanie1                 D  Aplikacja została zniszczona
+2023-10-23 18:53:35.512  3230-3230  log_tag                 com.example.zadanie1                 D  Aplikacja została uruchomiona
+2023-10-23 18:53:35.514  3230-3230  log_tag                 com.example.zadanie1                 D  Aplikacja została wzonowiona
